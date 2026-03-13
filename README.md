@@ -22,6 +22,7 @@ The application demonstrates a clean project structure, logging, input validatio
 
 ## Project Structure
 
+```
 trading_bot/
 │
 ├── bot/
@@ -34,6 +35,8 @@ trading_bot/
 ├── requirements.txt
 ├── README.md
 └── logs/                # API request and response logs
+```
+
 ## Setup Instructions
 
 ### 1. Clone the repository
