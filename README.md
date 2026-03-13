@@ -34,9 +34,6 @@ trading_bot/
 ├── requirements.txt
 ├── README.md
 └── logs/                # API request and response logs
-
----
-
 ## Setup Instructions
 
 ### 1. Clone the repository
