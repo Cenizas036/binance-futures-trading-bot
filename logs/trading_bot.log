@@ -1,13 +1,3 @@
-2026-03-14 01:44:39,497 - INFO - Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
-2026-03-14 01:44:39,497 - ERROR - Order failed: API Secret required for private endpoints
-2026-03-14 01:55:35,107 - INFO - Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
-2026-03-14 01:55:37,058 - INFO - Order Response: {}
-2026-03-14 01:56:46,060 - INFO - Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
-2026-03-14 01:56:47,029 - INFO - Order Response: {}
-2026-03-14 02:01:31,756 - INFO - Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
-2026-03-14 02:01:33,173 - INFO - Order Response: {}
-2026-03-14 02:04:46,829 - INFO - Order request -> BTCUSDT BUY MARKET qty=0.001 price=None
-2026-03-14 02:04:47,752 - ERROR - Order failed -> APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
 2026-03-14 02:04:47,757 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
 2026-03-14 02:05:19,555 - INFO - Order request -> BTCUSDT BUY MARKET qty=0.002 price=None
 2026-03-14 02:05:20,338 - INFO - Order response -> {'orderId': 12795070118, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc824261c3864d4d3043407', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773434119527}
